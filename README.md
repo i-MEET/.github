@@ -1,4 +1,3 @@
-# .github
 ![](/imeet_logo.jpg)  
 Welcome to the [Institute Materials for Electronics and Energy Technology](https://www.i-meet.ww.uni-erlangen.de/) (i-MEET) Github profile!
 
